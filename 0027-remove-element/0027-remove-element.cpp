@@ -12,6 +12,7 @@ public:
                 i++;
             }
         }
-        return nums.size();
+        int length = nums.size();
+        return length;
     }
 };
