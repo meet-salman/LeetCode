@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/meet-salman/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/meet-salman/LeetCode/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/meet-salman/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/meet-salman/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/meet-salman/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/meet-salman/LeetCode/tree/master/0792-binary-search) |
 ## Math
 |  |
 | ------- |
