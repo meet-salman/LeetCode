@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/meet-salman/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/meet-salman/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/meet-salman/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/meet-salman/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/meet-salman/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/meet-salman/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/meet-salman/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/meet-salman/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/meet-salman/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -37,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/meet-salman/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/meet-salman/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/meet-salman/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/meet-salman/LeetCode/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/meet-salman/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -56,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/meet-salman/LeetCode/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
