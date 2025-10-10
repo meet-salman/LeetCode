@@ -11,21 +11,16 @@ class Solution {
 public:
     int guessNumber(int n) {
         
-        int start = 0,
-            end = n;
+        int start = 1, end = n;
         
-        while(true){
+        while(start < end){
             int midPoint = start + (end - start) / 2;
-
             int result = guess(midPoint);
 
-            if(result == -1)
-                end = midPoint - 1;
-            else if(result == 1)
-                start = midPoint + 1;
-            else
-                return midPoint;
+            if(result == -1) end = midPoint - 1;
+            else if(result == 1) start = midPoint + 1;
+            else return midPoint;
         }
-
+        return start;
     }
 };
