@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/meet-salman/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/meet-salman/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/meet-salman/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/meet-salman/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/meet-salman/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/meet-salman/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/meet-salman/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
