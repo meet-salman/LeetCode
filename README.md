@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/meet-salman/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/meet-salman/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/meet-salman/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/meet-salman/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/meet-salman/LeetCode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/meet-salman/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/meet-salman/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/meet-salman/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/meet-salman/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/meet-salman/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/meet-salman/LeetCode/tree/master/0389-find-the-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/meet-salman/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/meet-salman/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meet-salman/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/meet-salman/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/meet-salman/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/meet-salman/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/meet-salman/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/meet-salman/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/meet-salman/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/meet-salman/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/meet-salman/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/meet-salman/LeetCode/tree/master/0792-binary-search) |
@@ -66,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/meet-salman/LeetCode/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/meet-salman/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/meet-salman/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/meet-salman/LeetCode/tree/master/0389-find-the-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/meet-salman/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
