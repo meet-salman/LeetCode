@@ -1,18 +1,28 @@
 class Solution {
 public:
-    int searchInsert(vector<int>& nums, int target) {
+    int binary_search(vector<int>& nums, int size, int target) {
+        int start = 0, end = size - 1, shouldAt = size;
+        while (start <= end) {
+            int midIdx = start + ((end - start) / 2);
 
-        for(int i = 0; i < nums.size(); i++){
-
-            if(nums[i] >= target){
-                return i;
+            if (nums[midIdx] == target)
+                return midIdx;
+            else if (target > nums[midIdx])
+                start = midIdx + 1;
+            else {
+                shouldAt = midIdx;
+                end = midIdx - 1;
             }
         }
+        return (shouldAt < 0) ? 0 : shouldAt;
+    }
 
-        if(nums[nums.size() - 1] < target){
-            return nums.size();
-        }
+    int searchInsert(vector<int>& nums, int target) {
 
-        return 0;
+        int size = nums.size();
+
+        int idx = binary_search(nums, size, target);
+
+        return idx;
     }
 };
