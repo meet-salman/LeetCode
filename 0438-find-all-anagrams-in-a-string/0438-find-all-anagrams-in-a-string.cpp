@@ -21,7 +21,7 @@ public:
         for (int i = 0; i <= sSize - pSize; i++) {
             if (i > 0) {
                 aFreq[s[i - 1] - 'a']--;
-                aFreq[s[i + p.size() - 1] - 'a']++;
+                aFreq[s[i + pSize - 1] - 'a']++;
             }
 
             if (pFreq == aFreq)
