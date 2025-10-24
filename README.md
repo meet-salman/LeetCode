@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/meet-salman/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/meet-salman/LeetCode/tree/master/0412-fizz-buzz) |
+| [1448-maximum-69-number](https://github.com/meet-salman/LeetCode/tree/master/1448-maximum-69-number) |
 ## Sorting
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/meet-salman/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/meet-salman/LeetCode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
