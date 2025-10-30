@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/meet-salman/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/meet-salman/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/meet-salman/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/meet-salman/LeetCode/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/meet-salman/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/meet-salman/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/meet-salman/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/meet-salman/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/meet-salman/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/meet-salman/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/meet-salman/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/meet-salman/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/meet-salman/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/meet-salman/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/meet-salman/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
