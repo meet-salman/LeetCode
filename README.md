@@ -115,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/meet-salman/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/meet-salman/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/meet-salman/LeetCode/tree/master/0742-to-lower-case) |
+| [1508-longest-happy-prefix](https://github.com/meet-salman/LeetCode/tree/master/1508-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/meet-salman/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1508-longest-happy-prefix](https://github.com/meet-salman/LeetCode/tree/master/1508-longest-happy-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/meet-salman/LeetCode/tree/master/0020-valid-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/meet-salman/LeetCode/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/meet-salman/LeetCode/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
