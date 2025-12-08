@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/meet-salman/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/meet-salman/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/meet-salman/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/meet-salman/LeetCode/tree/master/0415-add-strings) |
 | [1448-maximum-69-number](https://github.com/meet-salman/LeetCode/tree/master/1448-maximum-69-number) |
 ## Sorting
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/meet-salman/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/meet-salman/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/meet-salman/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/meet-salman/LeetCode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/meet-salman/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/meet-salman/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/meet-salman/LeetCode/tree/master/0742-to-lower-case) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/meet-salman/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/meet-salman/LeetCode/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
