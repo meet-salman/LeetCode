@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/meet-salman/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/meet-salman/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/meet-salman/LeetCode/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/meet-salman/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/meet-salman/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/meet-salman/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/meet-salman/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/meet-salman/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/meet-salman/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/meet-salman/LeetCode/tree/master/0742-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/meet-salman/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1508-longest-happy-prefix](https://github.com/meet-salman/LeetCode/tree/master/1508-longest-happy-prefix) |
 ## String Matching
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/meet-salman/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/meet-salman/LeetCode/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/meet-salman/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/meet-salman/LeetCode/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/meet-salman/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Rolling Hash
 |  |
 | ------- |
