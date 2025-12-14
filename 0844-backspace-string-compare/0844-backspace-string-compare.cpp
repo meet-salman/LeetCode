@@ -6,19 +6,15 @@ public:
         st_ch st1, st2;
 
         for (char& ch : s) {
-            if (ch == '#' && st1.empty())
-                continue;
-            else if (ch == '#' && !st1.empty())
+            if (ch == '#' && !st1.empty())
                 st1.pop();
-            else
+            else if (ch != '#')
                 st1.push(ch);
         }
         for (char& ch : t) {
-            if (ch == '#' && st2.empty())
-                continue;
-            else if (ch == '#' && !st2.empty())
+            if (ch == '#' && !st2.empty())
                 st2.pop();
-            else
+            else if (ch != '#')
                 st2.push(ch);
         }
 
