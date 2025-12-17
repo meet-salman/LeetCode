@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/meet-salman/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/meet-salman/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/meet-salman/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/meet-salman/LeetCode/tree/master/0234-palindrome-linked-list) |
