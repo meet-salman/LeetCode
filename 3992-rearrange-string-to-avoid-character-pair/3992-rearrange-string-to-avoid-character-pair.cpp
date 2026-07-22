@@ -3,14 +3,14 @@ public:
     string rearrangeString(string s, char x, char y) {
         string t = "";
 
-        for(int i = 0; i < s.size(); i++){
-            if(s[i] == y)
-                t+= s[i];
+        for(char c : s){
+            if(c == y)
+                t+= c;
         }
 
-        for(int i = 0; i < s.size(); i++){
-            if(s[i] != y)
-                t+= s[i];
+        for(char c : s){
+            if(c != y)
+                t+= c;
         }
 
         return t;
