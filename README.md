@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/meet-salman/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/meet-salman/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/meet-salman/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0931-minimum-falling-path-sum](https://github.com/meet-salman/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/meet-salman/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/meet-salman/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1991-find-the-middle-index-in-array](https://github.com/meet-salman/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/meet-salman/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/meet-salman/LeetCode/tree/master/0392-is-subsequence) |
+| [0931-minimum-falling-path-sum](https://github.com/meet-salman/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 ## Stack
 |  |
 | ------- |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/meet-salman/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/meet-salman/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/meet-salman/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0931-minimum-falling-path-sum](https://github.com/meet-salman/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
