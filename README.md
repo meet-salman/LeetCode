@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/meet-salman/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/meet-salman/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/meet-salman/LeetCode/tree/master/0724-find-pivot-index) |
+| [0733-flood-fill](https://github.com/meet-salman/LeetCode/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/meet-salman/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/meet-salman/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/meet-salman/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -234,5 +235,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/meet-salman/LeetCode/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/meet-salman/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/meet-salman/LeetCode/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/meet-salman/LeetCode/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
