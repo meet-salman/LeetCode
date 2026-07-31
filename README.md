@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/meet-salman/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/meet-salman/LeetCode/tree/master/0742-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/meet-salman/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1143-longest-common-subsequence](https://github.com/meet-salman/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1508-longest-happy-prefix](https://github.com/meet-salman/LeetCode/tree/master/1508-longest-happy-prefix) |
 ## String Matching
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/meet-salman/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/meet-salman/LeetCode/tree/master/0392-is-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/meet-salman/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/meet-salman/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
