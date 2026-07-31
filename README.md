@@ -240,9 +240,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/meet-salman/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/meet-salman/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/meet-salman/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/meet-salman/LeetCode/tree/master/0733-flood-fill) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/meet-salman/LeetCode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/meet-salman/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
